@@ -1,0 +1,40 @@
+{
+  "subscriber": [
+    {
+      "first_name": "Anna",
+      "last_name": "Kot",
+      "city": "Odessa",
+      "phone_number": "8(093)-533-33-33"
+    },
+    {
+      "first_name": "Roman",
+      "last_name": "Krot",
+      "city": "Krakow",
+      "phone_number": "8(093)-522-22-22"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Goshavich",
+      "city": "London",
+      "phone_number": "8(093)-527-27-27"
+    },
+    {
+      "first_name": "Kosta",
+      "last_name": "Yankula",
+      "city": "Kyiv",
+      "phone_number": "8(093)-545-45-45"
+    },
+    {
+      "first_name": "Masha",
+      "last_name": "Mashova",
+      "city": "Popua",
+      "phone_number": "8(093)-522-22-22"
+    },
+    {
+      "first_name": "Roman",
+      "last_name": "Krot",
+      "city": "Krakow",
+      "phone_number": "8(093)-522-22-22"
+    }
+  ]
+}

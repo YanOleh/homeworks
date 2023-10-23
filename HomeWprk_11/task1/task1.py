@@ -9,5 +9,6 @@ def open_file():
 
 
 create_file()
+
 open_file()
 

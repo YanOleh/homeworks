@@ -102,7 +102,6 @@ def find_contacts(file_name):
         print(f"User with name {search_data} not found.")
         return
 
-
     print(f"All users with name {search_data}:")
     for i, user in enumerate(found_contacts, 1):
         print(f"{i}. {user}")

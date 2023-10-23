@@ -20,5 +20,4 @@ def start_program():
         add_new_user()
 
 
-
 start_program()

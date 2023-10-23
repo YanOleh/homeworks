@@ -11,8 +11,7 @@ while True:
     if len(list2) == 10:
         break
 
-for i in list1:
-    if i in list2:
-        list3.append(i)
+list3 = list(set(list1) & set(list2))
 
-print('List1 =', list1, '\n' 'List2 =', list2, '\n' 'List3 =', list(set(list3)))
+
+print('List1 =', list1, '\n' 'List2 =', list2, '\n' 'List3 =', list3)

@@ -3,7 +3,7 @@ def arg_rules(type_: type, max_length: int, contains: list):
         def wrapper(*args, **kwargs):
             result = func(*args, **kwargs)
             for arg in args:
-                if type_ != str:
+                if not isinstance(arg, type_):
                     print("This is not type str")
                     return False
                 if len(arg) > max_length:
